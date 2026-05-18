@@ -1,0 +1,25 @@
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Codex / generation working directories
+# These folders contain prompts, references, decoded strips, extracted frames,
+# repair attempts, and other large intermediate artifacts. Keep only final pet
+# packages in the repository.
+pet-runs/
+.codex/
+generated_images/
+
+# Local scratch/output
+tmp/
+temp/
+dist/
+build/
+
+# Logs
+*.log
+

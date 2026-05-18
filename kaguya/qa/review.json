@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames",
+  "frames_root": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames",
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,7 +15,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\idle\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\idle\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14319,
@@ -30,7 +30,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\idle\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\idle\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14291,
@@ -45,7 +45,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\idle\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\idle\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14224,
@@ -60,7 +60,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\idle\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\idle\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14397,
@@ -75,7 +75,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\idle\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\idle\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14609,
@@ -90,7 +90,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\idle\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\idle\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14321,
@@ -116,7 +116,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-right\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-right\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13828,
@@ -131,7 +131,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-right\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-right\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13939,
@@ -146,7 +146,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-right\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-right\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13976,
@@ -161,7 +161,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-right\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-right\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13986,
@@ -176,7 +176,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-right\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-right\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14206,
@@ -191,7 +191,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-right\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-right\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13636,
@@ -206,7 +206,7 @@
         },
         {
           "index": 6,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-right\\06.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-right\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13847,
@@ -221,7 +221,7 @@
         },
         {
           "index": 7,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-right\\07.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-right\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14010,
@@ -247,7 +247,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-left\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-left\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13828,
@@ -262,7 +262,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-left\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-left\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13939,
@@ -277,7 +277,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-left\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-left\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13976,
@@ -292,7 +292,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-left\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-left\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13986,
@@ -307,7 +307,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-left\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-left\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13966,
@@ -322,7 +322,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-left\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-left\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13696,
@@ -337,7 +337,7 @@
         },
         {
           "index": 6,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-left\\06.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-left\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13848,
@@ -352,7 +352,7 @@
         },
         {
           "index": 7,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running-left\\07.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running-left\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13901,
@@ -378,7 +378,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waving\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waving\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14369,
@@ -393,7 +393,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waving\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waving\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14729,
@@ -408,7 +408,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waving\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waving\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15008,
@@ -423,7 +423,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waving\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waving\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14727,
@@ -449,7 +449,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\jumping\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\jumping\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19675,
@@ -464,7 +464,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\jumping\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\jumping\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14771,
@@ -479,7 +479,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\jumping\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\jumping\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17439,
@@ -494,7 +494,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\jumping\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\jumping\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12155,
@@ -509,7 +509,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\jumping\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\jumping\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18970,
@@ -535,7 +535,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\failed\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\failed\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15243,
@@ -550,7 +550,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\failed\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\failed\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14829,
@@ -565,7 +565,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\failed\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\failed\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20717,
@@ -580,7 +580,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\failed\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\failed\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14585,
@@ -595,7 +595,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\failed\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\failed\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22354,
@@ -610,7 +610,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\failed\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\failed\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14970,
@@ -625,7 +625,7 @@
         },
         {
           "index": 6,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\failed\\06.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\failed\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22040,
@@ -640,7 +640,7 @@
         },
         {
           "index": 7,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\failed\\07.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\failed\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15616,
@@ -666,7 +666,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waiting\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waiting\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15504,
@@ -681,7 +681,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waiting\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waiting\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15452,
@@ -696,7 +696,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waiting\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waiting\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15939,
@@ -711,7 +711,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waiting\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waiting\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15175,
@@ -726,7 +726,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waiting\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waiting\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15882,
@@ -741,7 +741,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\waiting\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\waiting\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14663,
@@ -767,7 +767,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12053,
@@ -782,7 +782,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12350,
@@ -797,7 +797,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12115,
@@ -812,7 +812,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12587,
@@ -827,7 +827,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12239,
@@ -842,7 +842,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\running\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\running\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12297,
@@ -868,7 +868,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\review\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\review\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14251,
@@ -883,7 +883,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\review\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\review\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14303,
@@ -898,7 +898,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\review\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\review\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13904,
@@ -913,7 +913,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\review\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\review\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13897,
@@ -928,7 +928,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\review\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\review\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13499,
@@ -943,7 +943,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\marin\\frames\\review\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Coach\\pet-runs\\kaguya\\frames\\review\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13872,

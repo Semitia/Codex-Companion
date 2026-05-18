@@ -1,4 +1,4 @@
-# Marin
+# Kaguya
 
 Cute anime-style pet package.
 
