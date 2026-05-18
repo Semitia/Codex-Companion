@@ -13,8 +13,10 @@
 
 | Pet | 包目录 | 预览 |
 | --- | --- | --- |
-| Kaguya-Tsukuyomi | [`kaguya-tsukuyomi/`](./kaguya-tsukuyomi/) | [`qa/contact-sheet.png`](./kaguya-tsukuyomi/qa/contact-sheet.png) |
+| Kaguya2 | [`kaguya2/`](./kaguya2/) | [`qa/contact-sheet.png`](./kaguya2/qa/contact-sheet.png) |
 | Kaguya | [`kaguya/`](./kaguya/) | [`qa/contact-sheet.png`](./kaguya/qa/contact-sheet.png) |
+
+说明：之前的 `kaguya-tsukuyomi` 包无法被 Codex 识别，可能是连字符或名称过长导致，所以已改名为 `kaguya2`。
 
 ## 安装 Pet
 
@@ -23,14 +25,14 @@
 ### Windows PowerShell
 
 ```powershell
-.\scripts\install-pet.ps1 kaguya-tsukuyomi
+.\scripts\install-pet.ps1 kaguya2
 ```
 
 ### macOS / Linux
 
 ```bash
 chmod +x ./scripts/install-pet.sh
-./scripts/install-pet.sh kaguya-tsukuyomi
+./scripts/install-pet.sh kaguya2
 ```
 
 脚本会把选中的 pet 包复制到：
@@ -47,7 +49,7 @@ chmod +x ./scripts/install-pet.sh
 Windows PowerShell：
 
 ```powershell
-$pet = "kaguya-tsukuyomi"
+$pet = "kaguya2"
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\pets\$pet" | Out-Null
 Copy-Item ".\$pet\pet.json", ".\$pet\spritesheet.webp" "$env:USERPROFILE\.codex\pets\$pet" -Force
 ```
@@ -55,7 +57,7 @@ Copy-Item ".\$pet\pet.json", ".\$pet\spritesheet.webp" "$env:USERPROFILE\.codex\
 macOS / Linux：
 
 ```bash
-pet="kaguya-tsukuyomi"
+pet="kaguya2"
 mkdir -p "$HOME/.codex/pets/$pet"
 cp "$pet/pet.json" "$pet/spritesheet.webp" "$HOME/.codex/pets/$pet/"
 ```
@@ -104,4 +106,3 @@ pet-name/
 ## 仓库说明
 
 `pet-runs/` 会被刻意忽略。它包含体积较大的生成过程文件、修复产物和中间素材；仓库只提交最终可安装的 pet 包和 QA 输出。
-

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames",
+  "frames_root": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames",
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,7 +15,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\idle\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\idle\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21418,
@@ -30,7 +30,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\idle\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\idle\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21026,
@@ -45,7 +45,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\idle\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\idle\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21069,
@@ -60,7 +60,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\idle\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\idle\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20953,
@@ -75,7 +75,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\idle\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\idle\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20928,
@@ -90,7 +90,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\idle\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\idle\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20968,
@@ -116,7 +116,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-right\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-right\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16237,
@@ -131,7 +131,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-right\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-right\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17926,
@@ -146,7 +146,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-right\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-right\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18601,
@@ -161,7 +161,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-right\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-right\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18959,
@@ -176,7 +176,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-right\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-right\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16627,
@@ -191,7 +191,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-right\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-right\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17717,
@@ -206,7 +206,7 @@
         },
         {
           "index": 6,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-right\\06.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-right\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19418,
@@ -221,7 +221,7 @@
         },
         {
           "index": 7,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-right\\07.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-right\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18201,
@@ -247,7 +247,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-left\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-left\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15850,
@@ -262,7 +262,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-left\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-left\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17172,
@@ -277,7 +277,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-left\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-left\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17959,
@@ -292,7 +292,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-left\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-left\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18459,
@@ -307,7 +307,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-left\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-left\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16156,
@@ -322,7 +322,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-left\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-left\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17436,
@@ -337,7 +337,7 @@
         },
         {
           "index": 6,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-left\\06.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-left\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18996,
@@ -352,7 +352,7 @@
         },
         {
           "index": 7,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running-left\\07.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running-left\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17758,
@@ -378,7 +378,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waving\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waving\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20650,
@@ -393,7 +393,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waving\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waving\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19241,
@@ -408,7 +408,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waving\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waving\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20759,
@@ -423,7 +423,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waving\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waving\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20654,
@@ -449,7 +449,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\jumping\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\jumping\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22829,
@@ -464,7 +464,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\jumping\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\jumping\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21926,
@@ -479,7 +479,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\jumping\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\jumping\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22600,
@@ -494,7 +494,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\jumping\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\jumping\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22123,
@@ -509,7 +509,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\jumping\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\jumping\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22880,
@@ -535,7 +535,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\failed\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\failed\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22010,
@@ -550,7 +550,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\failed\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\failed\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23310,
@@ -565,7 +565,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\failed\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\failed\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26111,
@@ -580,7 +580,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\failed\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\failed\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26741,
@@ -595,7 +595,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\failed\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\failed\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 27103,
@@ -610,7 +610,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\failed\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\failed\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15987,
@@ -625,7 +625,7 @@
         },
         {
           "index": 6,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\failed\\06.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\failed\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13619,
@@ -640,7 +640,7 @@
         },
         {
           "index": 7,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\failed\\07.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\failed\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 11287,
@@ -666,7 +666,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waiting\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waiting\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18968,
@@ -681,7 +681,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waiting\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waiting\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19641,
@@ -696,7 +696,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waiting\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waiting\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18606,
@@ -711,7 +711,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waiting\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waiting\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18006,
@@ -726,7 +726,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waiting\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waiting\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19070,
@@ -741,7 +741,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\waiting\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\waiting\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19206,
@@ -767,7 +767,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17806,
@@ -782,7 +782,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16260,
@@ -797,7 +797,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16760,
@@ -812,7 +812,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16620,
@@ -827,7 +827,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16456,
@@ -842,7 +842,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\running\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\running\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17171,
@@ -868,7 +868,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\review\\00.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\review\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17690,
@@ -883,7 +883,7 @@
         },
         {
           "index": 1,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\review\\01.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\review\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17684,
@@ -898,7 +898,7 @@
         },
         {
           "index": 2,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\review\\02.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\review\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17290,
@@ -913,7 +913,7 @@
         },
         {
           "index": 3,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\review\\03.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\review\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18022,
@@ -928,7 +928,7 @@
         },
         {
           "index": 4,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\review\\04.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\review\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17372,
@@ -943,7 +943,7 @@
         },
         {
           "index": 5,
-          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya-tsukuyomi\\frames\\review\\05.png",
+          "file": "D:\\WORK\\TinyProjects\\Codex-Companion\\pet-runs\\kaguya2\\frames\\review\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17557,

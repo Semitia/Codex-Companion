@@ -1,4 +1,4 @@
-﻿# Kaguya-Tsukuyomi
+# Kaguya2
 
 Cute Codex pet package generated from the provided moon-rabbit anime references.
 
@@ -11,7 +11,7 @@ Files:
 - `qa/previews/*.gif`
 
 Installed package copy:
-- `C:\Users\Winslow\.codex\pets\kaguya-tsukuyomi`
+- `C:\Users\Winslow\.codex\pets\kaguya2`
 
 QA status:
 - Deterministic frame review: pass

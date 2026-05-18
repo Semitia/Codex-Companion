@@ -13,8 +13,10 @@ Some pets also include a `qa/` directory with contact sheets, per-state animatio
 
 | Pet | Package | Preview |
 | --- | --- | --- |
-| Kaguya-Tsukuyomi | [`kaguya-tsukuyomi/`](./kaguya-tsukuyomi/) | [`qa/contact-sheet.png`](./kaguya-tsukuyomi/qa/contact-sheet.png) |
+| Kaguya2 | [`kaguya2/`](./kaguya2/) | [`qa/contact-sheet.png`](./kaguya2/qa/contact-sheet.png) |
 | Kaguya | [`kaguya/`](./kaguya/) | [`qa/contact-sheet.png`](./kaguya/qa/contact-sheet.png) |
+
+Note: the previous `kaguya-tsukuyomi` package was not recognized by Codex, possibly because of the hyphenated id or the long name, so it has been renamed to `kaguya2`.
 
 ## Install A Pet
 
@@ -23,14 +25,14 @@ Clone the repository, then run one of the install commands from the repository r
 ### Windows PowerShell
 
 ```powershell
-.\scripts\install-pet.ps1 kaguya-tsukuyomi
+.\scripts\install-pet.ps1 kaguya2
 ```
 
 ### macOS / Linux
 
 ```bash
 chmod +x ./scripts/install-pet.sh
-./scripts/install-pet.sh kaguya-tsukuyomi
+./scripts/install-pet.sh kaguya2
 ```
 
 The scripts copy the selected package to:
@@ -47,7 +49,7 @@ You can also copy a pet package manually. The destination folder name should mat
 Windows PowerShell:
 
 ```powershell
-$pet = "kaguya-tsukuyomi"
+$pet = "kaguya2"
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\pets\$pet" | Out-Null
 Copy-Item ".\$pet\pet.json", ".\$pet\spritesheet.webp" "$env:USERPROFILE\.codex\pets\$pet" -Force
 ```
@@ -55,7 +57,7 @@ Copy-Item ".\$pet\pet.json", ".\$pet\spritesheet.webp" "$env:USERPROFILE\.codex\
 macOS / Linux:
 
 ```bash
-pet="kaguya-tsukuyomi"
+pet="kaguya2"
 mkdir -p "$HOME/.codex/pets/$pet"
 cp "$pet/pet.json" "$pet/spritesheet.webp" "$HOME/.codex/pets/$pet/"
 ```
