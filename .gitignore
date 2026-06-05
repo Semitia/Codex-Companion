@@ -13,6 +13,7 @@ desktop.ini
 pet-runs/
 .codex/
 generated_images/
+*run/
 
 # Local scratch/output
 tmp/
